@@ -5,6 +5,7 @@ Run `make all` to build. `./main` to run the program.
 
 ## Interaction
 A menu is given to the user as shown below:
+![The program's prompt](/pictures/prompt.png)
 
 Choose an option (either case works. Fill in prompts as requested.
 
@@ -21,3 +22,6 @@ Deleting a value will shift the values to ensure contiguous arrays.
 
 ## Demo
 Here is a screenshot of a short demo showing the functionality:
+
+!(/pictures/demo1.png)
+!(/pictures/demo2.png)
