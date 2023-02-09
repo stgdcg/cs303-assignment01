@@ -23,5 +23,5 @@ Deleting a value will shift the values to ensure contiguous arrays.
 ## Demo
 Here is a screenshot of a short demo showing the functionality:
 
-!(/pictures/demo1.png)
-!(/pictures/demo2.png)
+![First image of demo](/pictures/demo1.png)
+![Demo continued](/pictures/demo2.png)
